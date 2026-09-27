@@ -18,8 +18,8 @@ A 92-second ink animation for **7th-grade maths**. Nokta, the ink character from
 MEB, Türkiye Yüzyılı Maarif Modeli, Ortaokul Matematik, 7th grade, "Geometrik Nicelikler" theme:
 
 **MAT.7.4.1. Eş küplerle oluşturulan yapılar ile görünümleri arasındaki ilişkiyi çözümleyebilme**
-- a) Eş küplerle oluşturulan yapıların farklı yönlerden görünümlerini çizer, görünümleri verilen yapıları oluşturur.
-- b) Yapılar ile görünümleri arasındaki ilişkiyi belirler.
+- a) Eş küplerle oluşturulan yapıların farklı yönlerden görünümlerini çizer ve görünümleri verilen yapıları eş küplerle oluşturur.
+- b) Oluşturduğu yapı ile görünümleri arasındaki ilişkileri belirler.
 
 ## Scenes
 
